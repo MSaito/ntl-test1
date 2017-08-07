@@ -1,2 +1,1 @@
-# oreno-genz-function
-not important test of genz function.
+some test of NTL (Number Theory Library)
